@@ -7,6 +7,7 @@ using System.Text;
 
 namespace L1.WcfServiceLibrary
 {
+    ///Проба
   /// <summary>
   /// Сервис "Электронная энциклопедия"
   /// </summary>
